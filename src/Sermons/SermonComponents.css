@@ -1,0 +1,124 @@
+.sermonDisplay {
+  width: 350px;
+  max-height: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin: 10px 0 0 0;
+  text-align: center;
+  border-radius: 12px;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.sermonDetails {
+  font-family: Poppins;
+  font-size: 0.8em;
+  width: 100%;
+  margin-top: 5px;
+  padding: 5px 0;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  justify-content: space-between;
+  text-align: left;
+  box-sizing: border-box;
+}
+
+.authorImage {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.sermonDate {
+  display: flex;
+  justify-content: space-between;
+  color: #a3a4a8;
+}
+
+.titleEdition {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 5px;
+  flex-grow: 1;
+  max-width: 87%;
+}
+
+.audio-container {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  box-sizing: border-box;
+  border-radius: 6px;
+  padding: 10px;
+  background-color: #ffffff;
+  box-shadow: 0 0 5px 5px rgb(240, 240, 240);
+}
+
+/* @media screen and (min-width: 720px) {
+  .sermonDisplay {
+    width: 32%;
+    max-height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 10px 5px 0 0;
+    text-align: center;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+
+  .sermonDetails {
+    width: 100%;
+    display: flex;
+    margin-top: 5px;
+    align-items: flex-start;
+    padding: 5px 0;
+    text-align: left;
+    box-sizing: border-box;
+  }
+
+  .authorImage {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: black;
+  }
+
+  .bold {
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: 0;
+  }
+
+  .sermonDate {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .titleEdition {
+    flex-grow: 1;
+    max-width: 87%;
+  }
+} */
