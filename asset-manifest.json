@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/thehouseofglory/static/css/main.6bc6a586.css",
-    "main.js": "/thehouseofglory/static/js/main.24877bee.js",
+    "main.js": "/thehouseofglory/static/js/main.0e7fcaf4.js",
     "static/js/787.c9237616.chunk.js": "/thehouseofglory/static/js/787.c9237616.chunk.js",
     "static/media/homeImage-1.png": "/thehouseofglory/static/media/homeImage-1.e49def1cb4eefbf59f27.png",
     "static/media/AboutUsHero.png": "/thehouseofglory/static/media/AboutUsHero.77e378b1af48ff1f992c.png",
@@ -20,11 +20,11 @@
     "static/media/logo_sotsm_header-1.png": "/thehouseofglory/static/media/logo_sotsm_header-1.73e52dab6925d1fa9897.png",
     "index.html": "/thehouseofglory/index.html",
     "main.6bc6a586.css.map": "/thehouseofglory/static/css/main.6bc6a586.css.map",
-    "main.24877bee.js.map": "/thehouseofglory/static/js/main.24877bee.js.map",
+    "main.0e7fcaf4.js.map": "/thehouseofglory/static/js/main.0e7fcaf4.js.map",
     "787.c9237616.chunk.js.map": "/thehouseofglory/static/js/787.c9237616.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bc6a586.css",
-    "static/js/main.24877bee.js"
+    "static/js/main.0e7fcaf4.js"
   ]
 }
