@@ -14,7 +14,7 @@ let videoResource = [
     date: "April 7, 2023",
     audioSource:
       "/thehouseofglory/audioFiles/AUD-20230407-WA0007-the-power-of-the-cross.mp3",
-    speakerImg: "/pubImages/pst-omoya.jpeg",
+    speakerImg: "/thehouseofglory/pubImages/pst-omoya.jpeg",
   },
 
   {
@@ -23,7 +23,7 @@ let videoResource = [
     date: "June 10, 2023",
     audioSource:
       "/thehouseofglory/audioFiles/AUD-20230610-WA0020-the-lord-is-his-name.mp3",
-    speakerImg: "/pubImages/pst-omoya.jpeg",
+    speakerImg: "/thehouseofglory/pubImages/pst-omoya.jpeg",
   },
 
   {
@@ -32,7 +32,7 @@ let videoResource = [
     date: "June 17, 2023",
     audioSource:
       "/thehouseofglory/audioFiles/AUD-20230617-WA0003-be-prepared.mp3",
-    speakerImg: "/pubImages/pst-omoya.jpeg",
+    speakerImg: "/thehouseofglory/pubImages/pst-omoya.jpeg",
   },
 
   {
@@ -41,7 +41,7 @@ let videoResource = [
     date: "July 15, 2023",
     audioSource:
       "/thehouseofglory/audioFiles/AUD-20230715-WA0000-the-years-of-your-pilgrimage.mp3",
-    speakerImg: "/pubImages/pst-omoya.jpeg",
+    speakerImg: "/thehouseofglory/pubImages/pst-omoya.jpeg",
   },
 
   {
@@ -50,7 +50,7 @@ let videoResource = [
     date: "August 14, 2023",
     audioSource:
       "/thehouseofglory/audioFiles/AUD-20230814-WA0000-the-power-of-prayer.mp3",
-    speakerImg: "/pubImages/pst-omoya.jpeg",
+    speakerImg: "/thehouseofglory/pubImages/pst-omoya.jpeg",
   },
 ];
 
