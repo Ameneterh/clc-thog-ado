@@ -5,7 +5,7 @@ let flyersDetails = [
     edition: "SL/2023-E1",
     date: "Jan 9, 2023",
     magpath:
-      "/downloads/2023-E1 - 09-01-2023 - IT SEEMED RIGHT IN OUR EYES.pdf#page=1",
+      "/thehouseofglory/downloads/2023-E1 - 09-01-2023 - IT SEEMED RIGHT IN OUR EYES.pdf#page=1",
   },
 
   // {
