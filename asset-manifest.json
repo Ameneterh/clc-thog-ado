@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/clc-thog-ado/static/css/main.6bc6a586.css",
-    "main.js": "/clc-thog-ado/static/js/main.a5d7c3b9.js",
-    "static/js/787.c9237616.chunk.js": "/clc-thog-ado/static/js/787.c9237616.chunk.js",
-    "static/media/homeImage-1.png": "/clc-thog-ado/static/media/homeImage-1.e49def1cb4eefbf59f27.png",
-    "static/media/AboutUsHero.png": "/clc-thog-ado/static/media/AboutUsHero.77e378b1af48ff1f992c.png",
-    "static/media/contact-hero.png": "/clc-thog-ado/static/media/contact-hero.d374ee52be2a7df6a62f.png",
-    "static/media/all-welcome.png": "/clc-thog-ado/static/media/all-welcome.925b39ed962d01d1c952.png",
-    "static/media/sermons-hero-image.png": "/clc-thog-ado/static/media/sermons-hero-image.b97230c878a75a78d4e8.png",
-    "static/media/blog-hero.png": "/clc-thog-ado/static/media/blog-hero.9aa1ebac06d444a3a286.png",
-    "static/media/couple-reading.png": "/clc-thog-ado/static/media/couple-reading.78589119fc1b64453e20.png",
-    "static/media/shared-values.png": "/clc-thog-ado/static/media/shared-values.44db887d2031f3d92c2e.png",
-    "static/media/sundayService.png": "/clc-thog-ado/static/media/sundayService.86a599e5656b5abbed15.png",
-    "static/media/charity-events.png": "/clc-thog-ado/static/media/charity-events.273951954946316251b4.png",
-    "static/media/layinghands.png": "/clc-thog-ado/static/media/layinghands.f3011094eb14771078ef.png",
-    "static/media/man-praying.png": "/clc-thog-ado/static/media/man-praying.052d5a58a4bab6c9e41c.png",
-    "static/media/joy&fulfilment.png": "/clc-thog-ado/static/media/joy&fulfilment.5733651a81b2f9bc7cd7.png",
-    "static/media/youtube.jpeg": "/clc-thog-ado/static/media/youtube.ff786017dc87d1250532.jpeg",
-    "static/media/logo_sotsm_header-1.png": "/clc-thog-ado/static/media/logo_sotsm_header-1.73e52dab6925d1fa9897.png",
-    "index.html": "/clc-thog-ado/index.html",
-    "main.6bc6a586.css.map": "/clc-thog-ado/static/css/main.6bc6a586.css.map",
-    "main.a5d7c3b9.js.map": "/clc-thog-ado/static/js/main.a5d7c3b9.js.map",
-    "787.c9237616.chunk.js.map": "/clc-thog-ado/static/js/787.c9237616.chunk.js.map"
+    "main.css": "/thehouseofglory/static/css/main.6bc6a586.css",
+    "main.js": "/thehouseofglory/static/js/main.1e917526.js",
+    "static/js/787.c9237616.chunk.js": "/thehouseofglory/static/js/787.c9237616.chunk.js",
+    "static/media/homeImage-1.png": "/thehouseofglory/static/media/homeImage-1.e49def1cb4eefbf59f27.png",
+    "static/media/AboutUsHero.png": "/thehouseofglory/static/media/AboutUsHero.77e378b1af48ff1f992c.png",
+    "static/media/contact-hero.png": "/thehouseofglory/static/media/contact-hero.d374ee52be2a7df6a62f.png",
+    "static/media/all-welcome.png": "/thehouseofglory/static/media/all-welcome.925b39ed962d01d1c952.png",
+    "static/media/sermons-hero-image.png": "/thehouseofglory/static/media/sermons-hero-image.b97230c878a75a78d4e8.png",
+    "static/media/blog-hero.png": "/thehouseofglory/static/media/blog-hero.9aa1ebac06d444a3a286.png",
+    "static/media/couple-reading.png": "/thehouseofglory/static/media/couple-reading.78589119fc1b64453e20.png",
+    "static/media/shared-values.png": "/thehouseofglory/static/media/shared-values.44db887d2031f3d92c2e.png",
+    "static/media/sundayService.png": "/thehouseofglory/static/media/sundayService.86a599e5656b5abbed15.png",
+    "static/media/charity-events.png": "/thehouseofglory/static/media/charity-events.273951954946316251b4.png",
+    "static/media/layinghands.png": "/thehouseofglory/static/media/layinghands.f3011094eb14771078ef.png",
+    "static/media/man-praying.png": "/thehouseofglory/static/media/man-praying.052d5a58a4bab6c9e41c.png",
+    "static/media/joy&fulfilment.png": "/thehouseofglory/static/media/joy&fulfilment.5733651a81b2f9bc7cd7.png",
+    "static/media/youtube.jpeg": "/thehouseofglory/static/media/youtube.ff786017dc87d1250532.jpeg",
+    "static/media/logo_sotsm_header-1.png": "/thehouseofglory/static/media/logo_sotsm_header-1.73e52dab6925d1fa9897.png",
+    "index.html": "/thehouseofglory/index.html",
+    "main.6bc6a586.css.map": "/thehouseofglory/static/css/main.6bc6a586.css.map",
+    "main.1e917526.js.map": "/thehouseofglory/static/js/main.1e917526.js.map",
+    "787.c9237616.chunk.js.map": "/thehouseofglory/static/js/787.c9237616.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bc6a586.css",
-    "static/js/main.a5d7c3b9.js"
+    "static/js/main.1e917526.js"
   ]
 }
