@@ -5,7 +5,7 @@ let videoResource = [
     date: "February 24, 2023",
     audioSource:
       "/thehouseofglory/audioFiles/AUD-20230224-WA0011-God-and-you.mp3",
-    speakerImg: "/pubImages/pst-omoya.jpeg",
+    speakerImg: "/thehouseofglory/pubImages/pst-omoya.jpeg",
   },
 
   {
