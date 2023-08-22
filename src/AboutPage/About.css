@@ -8,7 +8,7 @@
 
 .about-section-one {
   width: 100%;
-  height: 350px;
+  height: 300px;
   color: rgb(0, 0, 0);
   display: flex;
   flex-direction: column;
@@ -24,12 +24,12 @@
 .about-section-one p {
   text-transform: uppercase;
   margin-bottom: 15px;
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 .about-section-one h2 {
   text-transform: uppercase;
-  font-size: 3em;
+  font-size: 2em;
   text-align: left;
 }
 
@@ -53,7 +53,7 @@
 
 .about-section-two h2 {
   text-transform: uppercase;
-  font-size: 2.5em;
+  font-size: 1.5em;
   text-align: left;
   margin-bottom: 30px;
 }
@@ -61,18 +61,19 @@
 .about-sec-two-mission-vision {
   width: 100%;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: space-between;
   box-sizing: border-box;
   flex-grow: 1;
   padding: 5px;
+  gap: 50px;
 }
 
 .mission,
 .vision,
 .what-we-do {
-  width: 30%;
+  width: 90%;
   text-align: left;
   display: flex;
   flex-direction: column;
@@ -94,9 +95,9 @@
 
 .about-section-three {
   width: 90%;
-  min-height: 500px;
+  min-height: fit-content;
   margin: 30px auto;
-  padding: 30px 10%;
+  padding: 10px 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -106,7 +107,7 @@
 
 .about-section-three h2 {
   text-transform: uppercase;
-  font-size: 2.5em;
+  font-size: 1.5em;
   text-align: center;
   margin-bottom: 40px;
 }
@@ -120,13 +121,14 @@
   height: 300px;
   margin-bottom: 30px;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: space-between;
 }
 
 .abt-3-left,
 .abt-3-right {
-  width: 48%;
+  width: 90%;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -154,9 +156,9 @@
 
 .about-section-four {
   width: 90%;
-  min-height: 500px;
-  margin: 30px auto;
-  padding: 20px 0;
+  min-height: fit-content;
+  margin: 10px auto;
+  padding: 10px 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -165,15 +167,200 @@
 }
 
 .about-section-four h2 {
-  font-size: 2.5em;
+  font-size: 1.2em;
   text-transform: uppercase;
+  margin-bottom: 20px;
 }
 
 .about-sect4-components {
   width: 90%;
-  height: 400px;
-  /* margin-top: 30px; */
+  min-height: 400px;
+  gap: 30px;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: space-between;
+}
+
+@media screen and (min-width: 720px) {
+  * {
+    margin: 0;
+  }
+
+  .aboutPage-body {
+    width: 100%;
+  }
+
+  .about-section-one {
+    width: 100%;
+    height: 350px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 0 5%;
+  }
+
+  .about-section-one p {
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    font-size: 1.5em;
+  }
+
+  .about-section-one h2 {
+    text-transform: uppercase;
+    font-size: 3em;
+    text-align: left;
+  }
+
+  .about-section-two {
+    color: black;
+    width: 100%;
+    min-height: 400px;
+    margin: 20px auto;
+    padding: 30px 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    background-image: linear-gradient(
+      to top,
+      rgb(202, 202, 202),
+      rgba(0, 0, 0, 0) 30%
+    );
+  }
+
+  .about-section-two h2 {
+    text-transform: uppercase;
+    font-size: 2.5em;
+    text-align: left;
+    margin-bottom: 30px;
+  }
+
+  .about-sec-two-mission-vision {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    flex-grow: 1;
+    padding: 5px;
+  }
+
+  .mission,
+  .vision,
+  .what-we-do {
+    width: 30%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .mission p,
+  .vision p,
+  .what-we-do p {
+    font-size: 1em;
+  }
+
+  .mission h3,
+  .vision h3,
+  .what-we-do h3 {
+    font-size: 1.5em;
+    margin: 0;
+  }
+
+  .about-section-three {
+    width: 90%;
+    min-height: 500px;
+    margin: 30px auto;
+    padding: 30px 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+
+  .about-section-three h2 {
+    text-transform: uppercase;
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .about-section-three h2 span {
+    display: block;
+  }
+
+  .church-benefits {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .abt-3-left,
+  .abt-3-right {
+    width: 48%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+  }
+
+  .with-text {
+    text-align: left;
+  }
+
+  .with-text h3 {
+    text-transform: uppercase;
+    font-size: 3.5;
+    font-weight: 800;
+    margin-bottom: 15px;
+  }
+
+  .with-picture {
+    border-radius: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .about-section-four {
+    width: 90%;
+    min-height: 500px;
+    margin: 30px auto;
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+
+  .about-section-four h2 {
+    font-size: 2.5em;
+    text-transform: uppercase;
+  }
+
+  .about-sect4-components {
+    width: 90%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
 }

@@ -26,7 +26,9 @@ function Header(props) {
           </li>
         </ul>
       </div>
-      <PrimaryButton text="Contact Us" buttonURL="#/contact-us" />
+      <div className="contact-btn">
+        <PrimaryButton text="Contact Us" buttonURL="#/contact-us" />
+      </div>
     </div>
   );
 }
