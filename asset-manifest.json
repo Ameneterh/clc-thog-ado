@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/thehouseofglory/static/css/main.44f69d2d.css",
-    "main.js": "/thehouseofglory/static/js/main.4172346e.js",
+    "main.css": "/thehouseofglory/static/css/main.5dc0d797.css",
+    "main.js": "/thehouseofglory/static/js/main.ff76e45c.js",
     "static/js/787.c9237616.chunk.js": "/thehouseofglory/static/js/787.c9237616.chunk.js",
     "static/media/homeImage-1.png": "/thehouseofglory/static/media/homeImage-1.e49def1cb4eefbf59f27.png",
     "static/media/AboutUsHero.png": "/thehouseofglory/static/media/AboutUsHero.77e378b1af48ff1f992c.png",
@@ -19,12 +19,12 @@
     "static/media/youtube.jpeg": "/thehouseofglory/static/media/youtube.ff786017dc87d1250532.jpeg",
     "static/media/logo_sotsm_header-1.png": "/thehouseofglory/static/media/logo_sotsm_header-1.73e52dab6925d1fa9897.png",
     "index.html": "/thehouseofglory/index.html",
-    "main.44f69d2d.css.map": "/thehouseofglory/static/css/main.44f69d2d.css.map",
-    "main.4172346e.js.map": "/thehouseofglory/static/js/main.4172346e.js.map",
+    "main.5dc0d797.css.map": "/thehouseofglory/static/css/main.5dc0d797.css.map",
+    "main.ff76e45c.js.map": "/thehouseofglory/static/js/main.ff76e45c.js.map",
     "787.c9237616.chunk.js.map": "/thehouseofglory/static/js/787.c9237616.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44f69d2d.css",
-    "static/js/main.4172346e.js"
+    "static/css/main.5dc0d797.css",
+    "static/js/main.ff76e45c.js"
   ]
 }
