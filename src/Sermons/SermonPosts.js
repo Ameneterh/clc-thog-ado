@@ -23,10 +23,10 @@ function SermonPosts(props) {
         </div>
 
         <div className="sermons-section-two">
-          <div className="sermons-two-top"></div>
+          {/* <div className="sermons-two-top"></div> */}
 
           <div className="sermons-two-middle">
-            <h1>watch life transforming messages</h1>
+            <h1>watch our life transforming messages</h1>
             <div className="sermons-container">
               {videosDetails.map((showVideo) => {
                 return (
